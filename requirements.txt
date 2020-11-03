@@ -1,0 +1,12 @@
+pip install numpy
+pip install pandas
+pip install seaborn
+pip install sys
+pip install collections
+pip install functools
+pip install operator
+pip install statsmodels
+pip install tqdm 
+pip install matplotlib 
+pip install scikit-learn 
+pip install selenium
